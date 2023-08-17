@@ -6,7 +6,7 @@ function Contact() {
   return (
     <>
       <div className="content5">
-      <img src={image1} alt="warn" />
+    //  <img src={image1} alt="warn" />
         <div className="con5">
           <h6>GET IN TOUCH</h6>
           <div className="line"></div>
