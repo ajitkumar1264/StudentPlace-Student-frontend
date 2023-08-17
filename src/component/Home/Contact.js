@@ -1,12 +1,12 @@
 import React from "react";
 import "./Contact.css";
-import image1 from "../../Images/svg+xml;base64,PHN2ZyBpZD0idGhlLWNvdyIgY2xhc3M9ImNvdyIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iMzVweCIgdmlld0JveD0iMCAwIDQ4IDM1IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly.svg"
+//import image1 from "../../Images/svg+xml;base64,PHN2ZyBpZD0idGhlLWNvdyIgY2xhc3M9ImNvdyIgd2lkdGg9IjQ4cHgiIGhlaWdodD0iMzVweCIgdmlld0JveD0iMCAwIDQ4IDM1IiB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly.svg"
 
 function Contact() {
   return (
     <>
       <div className="content5">
-      <img src={image1} alt="" />
+      <img src={image1} alt="warn" />
         <div className="con5">
           <h6>GET IN TOUCH</h6>
           <div className="line"></div>
